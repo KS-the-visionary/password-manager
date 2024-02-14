@@ -3,3 +3,6 @@ Free, Open-Source Simple to use Password Manager with a modern UI written with p
 
 ## Requirements
 ```pip3 install PySide6 cryptography pymsgbox```
+
+### To run
+Run `python main.py` in the parent directory.
